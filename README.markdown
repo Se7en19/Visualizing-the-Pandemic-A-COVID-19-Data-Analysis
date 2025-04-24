@@ -1,4 +1,4 @@
-# Análisis de Datos de COVID-19
+# Visualizing-the-Pandemic-A-COVID-19-Data-Analysis
 
 ## Descripción
 Este proyecto realiza un análisis exploratorio y visualización de datos relacionados con el COVID-19 utilizando el dataset `owid-covid-latest.csv` de Our World in Data. El objetivo es examinar tendencias globales, identificar los países con mayor número de muertes, explorar la relación entre vacunación y mortalidad, y visualizar patrones mensuales de casos por país.
