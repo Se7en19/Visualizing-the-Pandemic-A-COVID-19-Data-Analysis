@@ -30,10 +30,7 @@ pip install pandas matplotlib numpy seaborn
 
 ## Instrucciones de Uso
 1. Asegúrate de que el archivo `owid-covid-latest.csv` esté en el directorio `../Data/`. Si no lo tienes, descárgalo desde [Our World in Data](https://ourworldindata.org/covid-deaths).
-2. Abre el notebook en Jupyter:
-   ```bash
-   jupyter notebook
-   ```
+2. Abre el notebook en Jupyter, Visual Studio Code, Google Colab, etc.
 3. Ejecuta las celdas en orden para reproducir el análisis y las visualizaciones.
 
 ## Notas Importantes
@@ -42,14 +39,10 @@ pip install pandas matplotlib numpy seaborn
 
 ## Resultados Principales
 - **Tendencias Globales**: Gráfico de líneas mostrando casos y muertes diarias a nivel mundial.
-- **Países Más Afectados**: Barra con los 10 países con mayor número de muertes totales.
+- **Países Más Afectados**: Barra de lugares con mayor cantidad de muertes.
 - **Vacunación vs Mortalidad**: Dispersión que explora la relación entre personas vacunadas y muertes por millón, segmentada por continente.
 - **Patrones Mensuales**: Heatmap de casos nuevos por país y mes.
 
-## Mejoras Futuras
-- Usar un dataset histórico para análisis temporales más robustos.
-- Agregar análisis estadísticos (correlaciones, regresiones).
-- Incluir conclusiones escritas basadas en las visualizaciones.
 
 ## Autor
-[Tu Nombre] - Creado el 24 de abril de 2025.
+Luis Héctor Camarillo Amador - Creado el 24 de abril de 2025.
